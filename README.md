@@ -1,1 +1,2 @@
-beat output http plugin
+
+## beat output http plugin
